@@ -2,11 +2,11 @@
 
 ## Description
 
-This app allows users to create notes and write code lines while they are offline as well. 
+This app allows users to create notes and write code lines while they are offline as well.
 
-## Heroku Deployed Link
+## Deployed Link
 
-https://desolate-river-49768.herokuapp.com/
+Live application not available due to technical issues with Heroku. Working on deploying to another platform.
 
 ## Screenshot
 
@@ -14,7 +14,8 @@ https://desolate-river-49768.herokuapp.com/
 
 To install the app, you can use npm install, and to run it, you can use npm start
 
-## Built Using: 
+## Built Using:
+
 - Javascript
 - NodeJs
 - Express
